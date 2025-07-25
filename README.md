@@ -37,5 +37,5 @@ Welcome to **Trendora**, a modern and visually appealing fashion website UI desi
 <img width="427" height="685" alt="Image" src="https://github.com/user-attachments/assets/dc79ea10-240a-46ab-9452-4eacc419584f" />
 <img width="429" height="630" alt="Image" src="https://github.com/user-attachments/assets/c4593ee7-d960-49db-b17d-a3fd43b8514a" />
 <img width="383" height="769" alt="Image" src="https://github.com/user-attachments/assets/a36d576a-1f5a-4806-aaaa-f06b5bfb62ec" />
-<img width="780" height="741" alt="Image" src="https://github.com/user-attachments/assets/373fd258-7a80-481d-9660-5c33e3416b6d" />
+
 
